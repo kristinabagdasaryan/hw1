@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+}
+
+
+.main{
+	font-size: 25px;
+}
+
+.about{
+	/*margin: 20px 40px;*/
+	/*margin: 10px 20px 30px 40px;*/
+	margin: 20px;
+	margin-bottom: 20px;
+	/*border: 2px solid black;*/
+
+}
+
+.hobby ul, li{
+	margin-bottom: 30px;
+	margin: 10px;
+}
+
+.schedule ol, li{
+	margin-bottom: 20px;
+	margin: 10px;
+}
+
+.photo img{
+	width: 900px;
+	height: 550px;
+	margin-bottom: 10px;
+}
+
+.photo p
+{margin-bottom: 10px;
+}
+
+.socialnetworks
+{margin-bottom: 20px;
+	margin: 30px;
+	width: 100px;
+	height: 100px;}
+
+.sn ul
+{margin-bottom: 30px;
+	margin: 10px;
+}
